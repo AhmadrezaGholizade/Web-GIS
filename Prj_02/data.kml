@@ -1,0 +1,2261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>TBDP A EAST CARDINAL</name>
+            <Point id="2">
+                <coordinates>113.9267,4.5626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>F/V PEDRA BLANCA</name>
+            <Point id="4">
+                <coordinates>-9.57322,48.65905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>CREW REST</name>
+            <Point id="6">
+                <coordinates>-84.62113,34.15655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>MIA TERRA</name>
+            <Point id="8">
+                <coordinates>122.32878,47.63252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>E\M RIO JORDAO I</name>
+            <Point id="10">
+                <coordinates>-53.27369,-1.82636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>STRAITS STREAM</name>
+            <Point id="12">
+                <coordinates>-57.27471,50.64674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>LITUYA</name>
+            <Point id="14">
+                <coordinates>-131.62916,55.30887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>JOHAN HJORT</name>
+            <Point id="16">
+                <coordinates>31.9134,71.82794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>KIRKELLA</name>
+            <Point id="18">
+                <coordinates>16.13076,74.9975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>CLARENCE G. FRAME</name>
+            <Point id="20">
+                <coordinates>-88.46267,39.90598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>QUEEN JENUVIA</name>
+            <Point id="22">
+                <coordinates>126.53767,33.523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>OPHELIA</name>
+            <Point id="24">
+                <coordinates>-78.89116,12.2275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>CSCL WINTER</name>
+            <Point id="26">
+                <coordinates>-104.0336,18.54339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>2500470</name>
+            <Point id="28">
+                <coordinates>-7.27427,55.35528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>3669787</name>
+            <Point id="30">
+                <coordinates>-83.43323,45.21179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>3160157</name>
+            <Point id="32">
+                <coordinates>-63.997,47.10445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>735057683</name>
+            <Point id="34">
+                <coordinates>-178.2901,-43.61104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>3669754</name>
+            <Point id="36">
+                <coordinates>-76.37103,43.5084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>BOYA 9</name>
+            <Point id="38">
+                <coordinates>0,0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>MXAK ST GEORGE2 ASTA</name>
+            <Point id="40">
+                <coordinates>-169.53416,56.59954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>WINTER PILOT B POS</name>
+            <Point id="42">
+                <coordinates>24.38333,65.625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>MARS J</name>
+            <Point id="44">
+                <coordinates>72.559,20.95967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>1733.9_G</name>
+            <Point id="46">
+                <coordinates>18.54889,47.76508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>BARGUSIN-1</name>
+            <Point id="48">
+                <coordinates>104.26939,52.29472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>KAP. RUSANOV BOUY 6</name>
+            <Point id="50">
+                <coordinates>20.19841,73.80367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>SUNKEN SHIP</name>
+            <Point id="52">
+                <coordinates>78.70166,63.93333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>MERSOLEIL</name>
+            <Point id="54">
+                <coordinates>-131.34911,-8.59868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>F/V LADY CHRIS 7</name>
+            <Point id="56">
+                <coordinates>-138.88396,-10.431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>UNFORGIVEN</name>
+            <Point id="58">
+                <coordinates>-46.43002,16.81885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>SAUVAGE</name>
+            <Point id="60">
+                <coordinates>-92.59147,-2.38598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>MIRA S</name>
+            <Point id="62">
+                <coordinates>153.87213,-32.49966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>EMPRESS PEARL</name>
+            <Point id="64">
+                <coordinates>144.00727,-40.1999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>JANICE ROBERTS</name>
+            <Point id="66">
+                <coordinates>-86.4898,30.48133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>PROFIT RADIANCE</name>
+            <Point id="68">
+                <coordinates>141.97057,-11.77098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>NANCY JILLIAN</name>
+            <Point id="70">
+                <coordinates>-57.99994,48.9612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>POLAR FRIGG</name>
+            <Point id="72">
+                <coordinates>23.32843,69.9784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>SHEN LIAN CHENG 785</name>
+            <Point id="74">
+                <coordinates>171.36745,7.08583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>FOURSEASONS EXPLORER</name>
+            <Point id="76">
+                <coordinates>134.3846,7.26195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>PARRABAH</name>
+            <Point id="78">
+                <coordinates>147.25744,-43.12688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>NES</name>
+            <Point id="80">
+                <coordinates>17.94328,73.66988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>NORDKAP</name>
+            <Point id="82">
+                <coordinates>13.88573,76.70384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>HONG DA 2</name>
+            <Point id="84">
+                <coordinates>-96.921,-4.53659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>HAWAIKI NUI</name>
+            <Point id="86">
+                <coordinates>-150.76861,-16.98174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>SOLBORG</name>
+            <Point id="88">
+                <coordinates>23.66132,71.6556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>SAN ANDRES</name>
+            <Point id="90">
+                <coordinates>-91.33387,-3.40917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>ISLA TAUTIL</name>
+            <Point id="92">
+                <coordinates>-72.99411,-41.5049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>MITSUHIRO8</name>
+            <Point id="94">
+                <coordinates>130.82078,33.90933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>TAPORO 9</name>
+            <Point id="96">
+                <coordinates>-140.11673,-9.58095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>CSB 8001</name>
+            <Point id="98">
+                <coordinates>104.78488,6.69595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>MAERSK MOBILISER</name>
+            <Point id="100">
+                <coordinates>-52.69979,47.56865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>MARIO OLIVA PEREZ</name>
+            <Point id="102">
+                <coordinates>-62.80861,8.34021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>WOLFE ISLANDER IV</name>
+            <Point id="104">
+                <coordinates>-76.44157,44.19624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>NATO WARSHIP A516</name>
+            <Point id="106">
+                <coordinates>21.21199,70.31874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>CELEBRITY FLORA</name>
+            <Point id="108">
+                <coordinates>-91.55392,-0.05565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>INDEPENDENT</name>
+            <Point id="110">
+                <coordinates>174.9503,-43.28124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>NINA</name>
+            <Point id="112">
+                <coordinates>14.11169,66.30586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>SCH 2408</name>
+            <Point id="114">
+                <coordinates>14.08923,52.35188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>BALTIYSKAYA KOSA</name>
+            <Point id="116">
+                <coordinates>27.91355,71.66075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>KONG HARALD</name>
+            <Point id="118">
+                <coordinates>30.06625,69.73256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>HERITAGE ADVENTURER</name>
+            <Point id="120">
+                <coordinates>167.6673,-47.42186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>BISMARCK-TIRPITZ</name>
+            <Point id="122">
+                <coordinates>2.07924,48.98854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>BBC LIMA</name>
+            <Point id="124">
+                <coordinates>27.72461,59.41908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>LE BELLOT</name>
+            <Point id="126">
+                <coordinates>18.98576,69.67679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>VOORNEBORG</name>
+            <Point id="128">
+                <coordinates>17.21622,60.68952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>GANDAWATI 1</name>
+            <Point id="130">
+                <coordinates>109.05097,0.0591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>LIV KNUTSEN</name>
+            <Point id="132">
+                <coordinates>-3.24102,47.05928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>CHEM SILICON</name>
+            <Point id="134">
+                <coordinates>91.40848,11.66507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>ATA BEKET</name>
+            <Point id="136">
+                <coordinates>38.82963,18.92708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>AURORA BOTNIA</name>
+            <Point id="138">
+                <coordinates>20.34386,63.68115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>SEVERINE</name>
+            <Point id="140">
+                <coordinates>9.84407,63.31714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>NORROENA</name>
+            <Point id="142">
+                <coordinates>-6.2985,61.8787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>PACIFIC HARMONY</name>
+            <Point id="144">
+                <coordinates>173.34534,-38.47175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>BOCHEM OSLO</name>
+            <Point id="146">
+                <coordinates>-57.5218,-41.55728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>SCA ORTVIKEN</name>
+            <Point id="148">
+                <coordinates>17.58072,61.72334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>AS STINE</name>
+            <Point id="150">
+                <coordinates>-64.38972,-42.86253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>KVB MEDIATION</name>
+            <Point id="152">
+                <coordinates>10.2196,49.86474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>FULVIA</name>
+            <Point id="154">
+                <coordinates>-60.71912,-32.77545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>MT MATRIX S.ILU</name>
+            <Point id="156">
+                <coordinates>3.38647,6.346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>CORESHIP OL</name>
+            <Point id="158">
+                <coordinates>113.2983,-22.2362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>PORT NAVIGATOR</name>
+            <Point id="160">
+                <coordinates>-36.07834,-16.55103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>BELMEKEN</name>
+            <Point id="162">
+                <coordinates>16.72265,70.30334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>NAUTICA</name>
+            <Point id="164">
+                <coordinates>-149.57002,-17.53851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>PASCO ODIN</name>
+            <Point id="166">
+                <coordinates>-7.49223,51.21191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>AP DUBRAVA</name>
+            <Point id="168">
+                <coordinates>41.65125,41.64758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>ST HELEN</name>
+            <Point id="170">
+                <coordinates>-19.62475,38.87865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>LIGNUM WEB</name>
+            <Point id="172">
+                <coordinates>174.56528,-35.95924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>COAST BUSTER</name>
+            <Point id="174">
+                <coordinates>31.58056,70.88364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>INDIGO MARCH</name>
+            <Point id="176">
+                <coordinates>154.37118,-38.22833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>CMA CGM SINNAMARY</name>
+            <Point id="178">
+                <coordinates>-33.19098,36.53145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>TAVASTLAND</name>
+            <Point id="180">
+                <coordinates>20.98239,63.57069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>BUDAPEST</name>
+            <Point id="182">
+                <coordinates>14.34621,48.28044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>MONTANA</name>
+            <Point id="184">
+                <coordinates>8.41385,49.77573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>AMILLA</name>
+            <Point id="186">
+                <coordinates>-11.87168,37.8958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>INDIGO GARLAND</name>
+            <Point id="188">
+                <coordinates>-128.69306,53.99701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>PATRIOT</name>
+            <Point id="190">
+                <coordinates>-37.7276,40.45824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>OCEAN TIANCHEN</name>
+            <Point id="192">
+                <coordinates>109.06767,-18.12199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>KASSIOPI.GR</name>
+            <Point id="194">
+                <coordinates>-74.34307,-52.76516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>SAGA PIONEER</name>
+            <Point id="196">
+                <coordinates>-85.71084,1.17247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>JACOB OLDENDORFF</name>
+            <Point id="198">
+                <coordinates>85.23035,-8.4237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>LOWLANDS FUTURE</name>
+            <Point id="200">
+                <coordinates>6.35694,59.64539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>EUROCARGO BARI</name>
+            <Point id="202">
+                <coordinates>-71.40616,41.61329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>BELUGA ACE</name>
+            <Point id="204">
+                <coordinates>178.40104,-18.12666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>ASIAN MAJESTY</name>
+            <Point id="206">
+                <coordinates>23.85818,57.13306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>BUENA VENTURA</name>
+            <Point id="208">
+                <coordinates>-115.17136,28.06193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>RR DONA LEONOR</name>
+            <Point id="210">
+                <coordinates>-73.88584,7.07059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>BORIS SOKOLOV</name>
+            <Point id="212">
+                <coordinates>11.17663,68.54374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>OLIVE L. MOORE</name>
+            <Point id="214">
+                <coordinates>-83.45034,41.69883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>ALGOMA MARINER</name>
+            <Point id="216">
+                <coordinates>-70.6575,47.16117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>BETTYS LOVE</name>
+            <Point id="218">
+                <coordinates>-48.07365,-0.33935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>SHANDONG HAI YAO</name>
+            <Point id="220">
+                <coordinates>114.25873,-17.12889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>ALGOMA NIAGARA</name>
+            <Point id="222">
+                <coordinates>-87.51809,41.7351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>GREEN KOTKA</name>
+            <Point id="224">
+                <coordinates>-35.9454,-12.17509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>KAYE E BARKER</name>
+            <Point id="226">
+                <coordinates>-80.08391,42.14101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>CABO FROWARD</name>
+            <Point id="228">
+                <coordinates>-56.37075,-37.86352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>LONDON 2012</name>
+            <Point id="230">
+                <coordinates>-123.73457,46.23565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>POLAR COSTA RICA</name>
+            <Point id="232">
+                <coordinates>-77.95565,34.196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>CSL KOASEK</name>
+            <Point id="234">
+                <coordinates>-127.75214,50.97238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>IOLCOS GENESIS</name>
+            <Point id="236">
+                <coordinates>-51.11039,-0.06745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>ULIVIA</name>
+            <Point id="238">
+                <coordinates>153.27028,-34.78912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>AL HABIBAH</name>
+            <Point id="240">
+                <coordinates>39.52623,20.65505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>LIBRA SUN</name>
+            <Point id="242">
+                <coordinates>-61.53535,-39.3032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>YUAN HE WAN</name>
+            <Point id="244">
+                <coordinates>115.71504,5.94023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>RYMAN</name>
+            <Point id="246">
+                <coordinates>14.92366,55.54336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>VEERHAVEN IV</name>
+            <Point id="248">
+                <coordinates>6.59748,51.58658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>MSC SANDRA</name>
+            <Point id="250">
+                <coordinates>-7.59801,33.60787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>CONSTANTIOS</name>
+            <Point id="252">
+                <coordinates>35.31985,36.08167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>AEGEAN MARATHON</name>
+            <Point id="254">
+                <coordinates>-20.23294,38.35454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>NORDIC SPRINTER</name>
+            <Point id="256">
+                <coordinates>120.67943,14.4421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>DEMETRIOS</name>
+            <Point id="258">
+                <coordinates>-9.95098,41.30771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>SELENA</name>
+            <Point id="260">
+                <coordinates>-32.28358,-4.45895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>EAGLE BLANE</name>
+            <Point id="262">
+                <coordinates>-2.48349,57.69264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>SFT CHINA</name>
+            <Point id="264">
+                <coordinates>76.13347,6.60333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>KM LABOBAR</name>
+            <Point id="266">
+                <coordinates>131.17548,-0.86517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>CMA CGM EIFFEL</name>
+            <Point id="268">
+                <coordinates>-2.83488,47.00979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>KINYRAS</name>
+            <Point id="270">
+                <coordinates>9.09988,39.05177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>MAERSK RIO NEGRO</name>
+            <Point id="272">
+                <coordinates>173.0906,-43.32708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>GRAND ELENA</name>
+            <Point id="274">
+                <coordinates>142.89923,46.61972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>PILILAAU</name>
+            <Point id="276">
+                <coordinates>11.27823,64.35743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>ARCTIC DISCOVERER</name>
+            <Point id="278">
+                <coordinates>5.45702,64.12555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>BESIKTAS AZERBAIJAN</name>
+            <Point id="280">
+                <coordinates>33.06082,68.98335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>PACIFIC ENCOUNTER</name>
+            <Point id="282">
+                <coordinates>176.53009,-40.98713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>LNG MERAK</name>
+            <Point id="284">
+                <coordinates>4.69901,63.40467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>MOUNT LOGAN</name>
+            <Point id="286">
+                <coordinates>116.81529,-13.29044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>PATRIOTSHIP</name>
+            <Point id="288">
+                <coordinates>-36.01472,41.42934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>CAPRICORN SIGMA</name>
+            <Point id="290">
+                <coordinates>-44.92067,17.30428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>AM KIRTI</name>
+            <Point id="292">
+                <coordinates>150.46901,-37.38351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>NAVIOS ARMONIA</name>
+            <Point id="294">
+                <coordinates>14.63281,-32.7852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>TRANSWORLD NAVIGATOR</name>
+            <Point id="296">
+                <coordinates>132.95125,42.78162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>PEACE</name>
+            <Point id="298">
+                <coordinates>152.02437,-33.0474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>TOKYO EXPRESS</name>
+            <Point id="300">
+                <coordinates>-26.27513,38.57875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>PALU LNG</name>
+            <Point id="302">
+                <coordinates>24.76945,33.82851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>OOCL MONTREAL</name>
+            <Point id="304">
+                <coordinates>-73.5058,45.57393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>WOODSIDE REES WITHER</name>
+            <Point id="306">
+                <coordinates>-31.97816,41.85853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>ATLANTIC SUN</name>
+            <Point id="308">
+                <coordinates>-63.50521,44.49193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>ATLANTIC SKY</name>
+            <Point id="310">
+                <coordinates>-3.12071,53.52064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>ELISA LARUS</name>
+            <Point id="312">
+                <coordinates>-33.08681,40.32094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>MS NICOLE</name>
+            <Point id="314">
+                <coordinates>-81.64816,39.27671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>COBIA LNG</name>
+            <Point id="316">
+                <coordinates>-109.75739,24.51259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>ADRIANO KNUTSEN</name>
+            <Point id="318">
+                <coordinates>-7.8859,44.18958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>SM BLUEBIRD</name>
+            <Point id="320">
+                <coordinates>19.07676,36.0215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>FEDOR LITKE</name>
+            <Point id="322">
+                <coordinates>9.25734,67.68005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>NIKOLAY YEVGENOV</name>
+            <Point id="324">
+                <coordinates>28.85705,71.42045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>CAPE VERDE</name>
+            <Point id="326">
+                <coordinates>151.455,-23.79928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>MSC SOFIA PAZ</name>
+            <Point id="328">
+                <coordinates>6.93239,42.96166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>CMA CGM CARL ANTOINE</name>
+            <Point id="330">
+                <coordinates>-75.02518,11.49699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>MSC LUDOVICA</name>
+            <Point id="332">
+                <coordinates>-109.66709,12.80896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>MSC LAURA</name>
+            <Point id="334">
+                <coordinates>-2.62734,43.78519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>AMERICAN SPIRIT</name>
+            <Point id="336">
+                <coordinates>-92.04328,46.7072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>PALENA</name>
+            <Point id="338">
+                <coordinates>-40.73596,-22.29617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>OOCL BRAZIL</name>
+            <Point id="340">
+                <coordinates>153.69392,-25.61475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>CARNIVAL PANORAMA</name>
+            <Point id="342">
+                <coordinates>-110.47616,23.20223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>FLOURISH</name>
+            <Point id="344">
+                <coordinates>117.8745,-17.2255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>MSC RAYSHMI</name>
+            <Point id="346">
+                <coordinates>-30.05654,35.49541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>IRON SOUTHERN CROSS</name>
+            <Point id="348">
+                <coordinates>121.13347,-13.88065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>YM TRUTH</name>
+            <Point id="350">
+                <coordinates>-167.15232,54.44282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>NAVIGARE TERRA MATER</name>
+            <Point id="352">
+                <coordinates>-27.85648,35.81317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>FRONT VOSSO</name>
+            <Point id="354">
+                <coordinates>-40.97953,-21.80556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>MAERSK SHEKOU</name>
+            <Point id="356">
+                <coordinates>116.49738,-35.52804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>KOI</name>
+            <Point id="358">
+                <coordinates>-14.81402,26.96112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>EVER LEADER</name>
+            <Point id="360">
+                <coordinates>141.3835,35.43647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>EVER LADEN</name>
+            <Point id="362">
+                <coordinates>-77.08717,3.90241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>OLYMPIC LUCK</name>
+            <Point id="364">
+                <coordinates>-40.77336,-21.80547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>COSCO KAOHSIUNG</name>
+            <Point id="366">
+                <coordinates>-132.13454,54.33075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>COSCO PACIFIC</name>
+            <Point id="368">
+                <coordinates>-85.24199,-1.39492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>MAERSK HAVANA</name>
+            <Point id="370">
+                <coordinates>14.35303,45.2946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>KENTUCKY</name>
+            <Point id="372">
+                <coordinates>-85.06017,38.74376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>WONDER OF THE SEAS</name>
+            <Point id="374">
+                <coordinates>-86.7365,16.51551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>MAERSK CHARLESTON</name>
+            <Point id="376">
+                <coordinates>-108.6262,19.21402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>MSC CAMILLE</name>
+            <Point id="378">
+                <coordinates>50.19492,26.50119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>GERD MAERSK</name>
+            <Point id="380">
+                <coordinates>142.07407,41.56238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>APL SENTOSA</name>
+            <Point id="382">
+                <coordinates>-122.31568,37.79594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>THESEUS</name>
+            <Point id="384">
+                <coordinates>118.75947,38.7825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>BERTOLINI XXXVI</name>
+            <Point id="386">
+                <coordinates>-54.73042,-2.41767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>MSC MAYA</name>
+            <Point id="388">
+                <coordinates>14.80685,36.39735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>MATHILDE MAERSK</name>
+            <Point id="390">
+                <coordinates>100.57417,3.26955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>COSCO SHIPPING STAR</name>
+            <Point id="392">
+                <coordinates>14.76925,54.65717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>MANILA EXPRESS</name>
+            <Point id="394">
+                <coordinates>120.2952,22.54856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>A STEVE CROWLEY</name>
+            <Point id="396">
+                <coordinates>-90.97531,32.25141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>PATRICIA I. HART</name>
+            <Point id="398">
+                <coordinates>-89.53807,36.50115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>CHAD PREGRACKE</name>
+            <Point id="400">
+                <coordinates>-91.59168,31.08842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>METALTRADE 4</name>
+            <Point id="402">
+                <coordinates>20.34275,44.90537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>KATHY</name>
+            <Point id="404">
+                <coordinates>-75.75478,22.26002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>LA ROSA 2</name>
+            <Point id="406">
+                <coordinates>-61.54072,16.22153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>REDPAC1</name>
+            <Point id="408">
+                <coordinates>-90.48865,-0.40295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>SEA BUSTER</name>
+            <Point id="410">
+                <coordinates>-122.60532,48.5154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>LET IT BE</name>
+            <Point id="412">
+                <coordinates>-132.88079,-35.60089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>INVINCIBLE</name>
+            <Point id="414">
+                <coordinates>147.33356,-42.89803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>CAPE CAMELLIA</name>
+            <Point id="416">
+                <coordinates>-34.53174,-5.25979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>CLIPPER 4</name>
+            <Point id="418">
+                <coordinates>174.96135,-36.88282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>TRINH+NGUYEN&lt;LRUTA20</name>
+            <Point id="420">
+                <coordinates>109.0993,14.52712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>NAUTILUS BALDER</name>
+            <Point id="422">
+                <coordinates>12.62385,66.0224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>BOS ATHENA</name>
+            <Point id="424">
+                <coordinates>100.58933,7.23391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>ARTEMIS ANGLER</name>
+            <Point id="426">
+                <coordinates>5.29223,59.33343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>MAERSK TRADER</name>
+            <Point id="428">
+                <coordinates>-125.27652,48.1499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>SEACOR CONGO</name>
+            <Point id="430">
+                <coordinates>-61.62085,10.64777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>SKANDI BARRA</name>
+            <Point id="432">
+                <coordinates>-1.31299,57.14133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>PLANCIUS</name>
+            <Point id="434">
+                <coordinates>-67.40965,-66.97208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>SIEM AMETHYST</name>
+            <Point id="436">
+                <coordinates>122.21872,-18.0009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>AURORA SALTFJORD</name>
+            <Point id="438">
+                <coordinates>6.44988,62.68461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>EXPLORIS ONE</name>
+            <Point id="440">
+                <coordinates>-61.67532,-64.36208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>SEAPEAK CATHINKA</name>
+            <Point id="442">
+                <coordinates>134.97,33.9085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>BITFLOWER</name>
+            <Point id="444">
+                <coordinates>-9.04813,53.26945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>TRANSOCEAN NORGE</name>
+            <Point id="446">
+                <coordinates>6.94872,64.94672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>NORDLYS</name>
+            <Point id="448">
+                <coordinates>14.13988,67.20149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>HAVILA POLLUX</name>
+            <Point id="450">
+                <coordinates>18.12006,69.45827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>PTOLEMY</name>
+            <Point id="452">
+                <coordinates>131.88222,43.10852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>HAVEN</name>
+            <Point id="454">
+                <coordinates>4.79985,55.71895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>L' AUSTRAL</name>
+            <Point id="456">
+                <coordinates>-68.86429,-54.96937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>EK-STREAM</name>
+            <Point id="458">
+                <coordinates>23.03921,63.86131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>NEPTUNE AEGLI</name>
+            <Point id="460">
+                <coordinates>-3.82262,43.44234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>CHEM SPARK</name>
+            <Point id="462">
+                <coordinates>11.81952,37.70505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>LYKTOS</name>
+            <Point id="464">
+                <coordinates>-69.67327,18.37349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>SILVER WIND</name>
+            <Point id="466">
+                <coordinates>-65.11591,-65.00666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>KING SEAWAYS</name>
+            <Point id="468">
+                <coordinates>-1.45106,54.99091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>VERA RAMBOW</name>
+            <Point id="470">
+                <coordinates>18.32284,54.9579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>AYANA STAR</name>
+            <Point id="472">
+                <coordinates>30.98013,46.55095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>MOUNT OWEN</name>
+            <Point id="474">
+                <coordinates>135.87008,-34.7178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>KM. DHARMA FERRY V</name>
+            <Point id="476">
+                <coordinates>116.80128,-1.29336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>ARGENT DAISY</name>
+            <Point id="478">
+                <coordinates>-122.339,37.71733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>NS PRIDE</name>
+            <Point id="480">
+                <coordinates>-25.07589,16.94261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>MARCELLUS LADY</name>
+            <Point id="482">
+                <coordinates>-3.3131,56.03459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>BERGE ANNUPURI</name>
+            <Point id="484">
+                <coordinates>-89.93562,29.87201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>PACIFIC AZUR</name>
+            <Point id="486">
+                <coordinates>115.75394,-32.22894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>ROMULO ALMEIDA</name>
+            <Point id="488">
+                <coordinates>-38.40538,-3.6488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>MIGUEL HIDALGO II</name>
+            <Point id="490">
+                <coordinates>-97.80765,22.25554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>KINAROS</name>
+            <Point id="492">
+                <coordinates>-74.75855,10.95303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>HORIZON ARMONIA</name>
+            <Point id="494">
+                <coordinates>-38.62483,-12.75352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>CYGNUS</name>
+            <Point id="496">
+                <coordinates>115.09707,-21.62605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>DART</name>
+            <Point id="498">
+                <coordinates>76.51048,8.32158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>ELANDRA OAK</name>
+            <Point id="500">
+                <coordinates>122.69198,-34.48859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>HAFNIA PUMA</name>
+            <Point id="502">
+                <coordinates>-72.761,-33.17615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>BOW SIRIUS</name>
+            <Point id="504">
+                <coordinates>-5.41567,36.15559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>SILVER MILLIE</name>
+            <Point id="506">
+                <coordinates>-118.20065,33.71179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>SILVER CINDY</name>
+            <Point id="508">
+                <coordinates>-79.50465,8.85541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>AF CLAUDIA</name>
+            <Point id="510">
+                <coordinates>19.34157,41.1438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>DODO</name>
+            <Point id="512">
+                <coordinates>-14.33535,-8.42952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>CONNEMARA</name>
+            <Point id="514">
+                <coordinates>174.00632,-41.28278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>TEN-OH MARU</name>
+            <Point id="516">
+                <coordinates>141.8973,40.98282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>STAR MAIA</name>
+            <Point id="518">
+                <coordinates>-34.77978,-8.11688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>STAR HANSA</name>
+            <Point id="520">
+                <coordinates>126.77134,36.97991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>MILA</name>
+            <Point id="522">
+                <coordinates>-71.5268,-32.75512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>SIRENA SEAWAYS</name>
+            <Point id="524">
+                <coordinates>22.07368,59.54749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>EUPHRATES HIGHWAY</name>
+            <Point id="526">
+                <coordinates>-4.90687,51.39287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>THALATTA</name>
+            <Point id="528">
+                <coordinates>144.65144,-38.68039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>SEVEN SEAS VOYAGER</name>
+            <Point id="530">
+                <coordinates>-63.0309,-64.73533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>HSL NIKE</name>
+            <Point id="532">
+                <coordinates>-76.32741,36.91256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>BALTIC QUEEN</name>
+            <Point id="534">
+                <coordinates>24.77139,59.44389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>PELICANA</name>
+            <Point id="536">
+                <coordinates>-76.47763,39.21217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>OKIANA</name>
+            <Point id="538">
+                <coordinates>118.49648,23.7875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>VIKING GRACE</name>
+            <Point id="540">
+                <coordinates>19.81365,59.99973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>FINNLADY</name>
+            <Point id="542">
+                <coordinates>25.19939,60.21889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>MARTINIQUE</name>
+            <Point id="544">
+                <coordinates>135.44075,34.63467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>MONTPELLIER</name>
+            <Point id="546">
+                <coordinates>33.00866,34.64765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>VIKING SATURN</name>
+            <Point id="548">
+                <coordinates>14.39532,43.92488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>MEGEVE</name>
+            <Point id="550">
+                <coordinates>49.21395,29.85043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>STAR NADZIYE</name>
+            <Point id="552">
+                <coordinates>149.68318,-21.21569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>SOUSTA</name>
+            <Point id="554">
+                <coordinates>18.91129,55.2928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>MSC PAOLA</name>
+            <Point id="556">
+                <coordinates>110.42344,-6.93749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>MAERSK CHACHAI</name>
+            <Point id="558">
+                <coordinates>77.75677,7.75082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>MINERVA ALICE</name>
+            <Point id="560">
+                <coordinates>10.91007,55.89357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>STAR PAOLA</name>
+            <Point id="562">
+                <coordinates>54.80781,-20.87087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>SEASPAN OSAKA</name>
+            <Point id="564">
+                <coordinates>107.10895,20.44913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>RESILIENT LADY</name>
+            <Point id="566">
+                <coordinates>145.04388,-38.89394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>ARCADIA</name>
+            <Point id="568">
+                <coordinates>146.26715,-16.56084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>ZUIDERDAM</name>
+            <Point id="570">
+                <coordinates>138.28992,34.56471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>SAPPHIRE PRINCESS</name>
+            <Point id="572">
+                <coordinates>-59.60912,-40.31588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>MSC LISA</name>
+            <Point id="574">
+                <coordinates>-29.08445,38.24413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>PRACHI</name>
+            <Point id="576">
+                <coordinates>115.83759,-20.28256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>STENA CRYSTAL SKY</name>
+            <Point id="578">
+                <coordinates>-30.86173,34.27203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>SAN FERNANDO</name>
+            <Point id="580">
+                <coordinates>57.49401,-20.13947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>CMA CGM CONGO</name>
+            <Point id="582">
+                <coordinates>16.95117,-33.52455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>UMM AL AMAD</name>
+            <Point id="584">
+                <coordinates>12.58331,45.09211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>MSC TIANJIN</name>
+            <Point id="586">
+                <coordinates>-74.14533,40.664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>APL MIAMI</name>
+            <Point id="588">
+                <coordinates>151.2065,-33.9704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>NORWEGIAN EPIC</name>
+            <Point id="590">
+                <coordinates>-70.76856,19.84107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>HAKONE</name>
+            <Point id="592">
+                <coordinates>77.59032,6.38925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>HYUNDAI  SPEED</name>
+            <Point id="594">
+                <coordinates>128.86361,34.74157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>EVER TOP</name>
+            <Point id="596">
+                <coordinates>0.52844,36.65449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>APL CHANGI</name>
+            <Point id="598">
+                <coordinates>-9.13745,36.17777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>TRAVELLER</name>
+            <Point id="600">
+                <coordinates>-4.02809,57.69613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>MAVKA</name>
+            <Point id="602">
+                <coordinates>30.65209,46.33611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>BLUE CARRIER 1</name>
+            <Point id="604">
+                <coordinates>27.25897,36.94389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>VIKING SEA</name>
+            <Point id="606">
+                <coordinates>-106.57046,23.22754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>MAERSK MISSISSIPPI</name>
+            <Point id="608">
+                <coordinates>-31.56337,45.11332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>HAFNIA EAGLE</name>
+            <Point id="610">
+                <coordinates>31.04372,-29.8774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>LEFKA ORI</name>
+            <Point id="612">
+                <coordinates>18.71567,40.48864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>FEDERAL SABLE</name>
+            <Point id="614">
+                <coordinates>-79.65099,31.22876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>FEDERAL SKEENA</name>
+            <Point id="616">
+                <coordinates>114.55957,-28.66366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>AS CYPRIA</name>
+            <Point id="618">
+                <coordinates>31.78608,31.61028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>ZAANDAM</name>
+            <Point id="620">
+                <coordinates>-58.94672,-3.25063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>PACIFIC EXPLORER</name>
+            <Point id="622">
+                <coordinates>138.08534,-35.35498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>XIN BEI LUN</name>
+            <Point id="624">
+                <coordinates>112.85348,-6.40006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>SEASPAN TOKYO</name>
+            <Point id="626">
+                <coordinates>101.00718,2.83062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>SUEZ PROTOPIA</name>
+            <Point id="628">
+                <coordinates>32.551,29.86959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>CROWN PRINCESS</name>
+            <Point id="630">
+                <coordinates>-157.36253,20.52182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>CMA CGM ALCAZAR</name>
+            <Point id="632">
+                <coordinates>-10.06833,38.51137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>OOCL WASHINGTON</name>
+            <Point id="634">
+                <coordinates>-106.05768,19.34695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>MSC GRANDIOSA</name>
+            <Point id="636">
+                <coordinates>-38.50256,-17.78287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>DISNEY WISH</name>
+            <Point id="638">
+                <coordinates>-80.62818,28.41302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>MARE JONIO</name>
+            <Point id="640">
+                <coordinates>12.50865,38.01022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>MEGAN</name>
+            <Point id="642">
+                <coordinates>8.93218,44.39486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>AMERIGO VESPUCCI</name>
+            <Point id="644">
+                <coordinates>-57.89698,-34.84905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>ARTEFACT</name>
+            <Point id="646">
+                <coordinates>174.20707,-35.23018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>BOHWA PIONEER</name>
+            <Point id="648">
+                <coordinates>29.21805,41.4558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>CONTSHIP JOY</name>
+            <Point id="650">
+                <coordinates>28.24748,34.21969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>IDA RAMBOW</name>
+            <Point id="652">
+                <coordinates>10.6569,59.42766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>SKALAR</name>
+            <Point id="654">
+                <coordinates>26.90876,60.4218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>NAVE ALDERAMIN</name>
+            <Point id="656">
+                <coordinates>40.06593,18.56093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>AIDASOL</name>
+            <Point id="658">
+                <coordinates>25.96283,70.9837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>COSCO WELLINGTON</name>
+            <Point id="660">
+                <coordinates>18.44551,-33.90817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>CMA CGM BELLINI</name>
+            <Point id="662">
+                <coordinates>35.53882,33.90895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>QUEEN MARY 2</name>
+            <Point id="664">
+                <coordinates>146.94558,-18.65961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>MSC VIVIANA</name>
+            <Point id="666">
+                <coordinates>29.74258,40.76071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>OCEAN NOVA</name>
+            <Point id="668">
+                <coordinates>-65.79421,-55.84828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>RIO2</name>
+            <Point id="670">
+                <coordinates>12.75706,51.83497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>RISING SUN</name>
+            <Point id="672">
+                <coordinates>-62.73179,17.28429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>SILJA SERENADE</name>
+            <Point id="674">
+                <coordinates>18.11534,59.35064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>COSTA FASCINOSA</name>
+            <Point id="676">
+                <coordinates>-54.6539,-35.06114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>MEIN SCHIFF 3</name>
+            <Point id="678">
+                <coordinates>5.30921,60.38986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>MSC BELLISSIMA</name>
+            <Point id="680">
+                <coordinates>122.10353,25.27605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>HANNI</name>
+            <Point id="682">
+                <coordinates>9.69755,59.06247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>VIKING ORION</name>
+            <Point id="684">
+                <coordinates>153.23627,-26.67008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>AIDASTELLA</name>
+            <Point id="686">
+                <coordinates>-17.76555,28.67448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>MSC BERN V</name>
+            <Point id="688">
+                <coordinates>23.59901,37.9563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>MSC MUSICA</name>
+            <Point id="690">
+                <coordinates>-48.56967,-26.96499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>COSTA SMERALDA</name>
+            <Point id="692">
+                <coordinates>11.77658,42.09925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>AIDACOSMA</name>
+            <Point id="694">
+                <coordinates>-13.73441,28.53983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>RCC PRESTIGE</name>
+            <Point id="696">
+                <coordinates>-1.67754,49.73448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>MEIN SCHIFF 4</name>
+            <Point id="698">
+                <coordinates>-60.99726,14.01378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>MSC PREZIOSA</name>
+            <Point id="700">
+                <coordinates>-46.3058,-23.9584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>MSC SEASHORE</name>
+            <Point id="702">
+                <coordinates>-77.72991,25.8453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>MSC LAUREN</name>
+            <Point id="704">
+                <coordinates>100.78279,13.03978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>AMMAN</name>
+            <Point id="706">
+                <coordinates>38.87687,21.13361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>AIDABELLA</name>
+            <Point id="708">
+                <coordinates>107.02674,10.5904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>MSC WORLD EUROPA</name>
+            <Point id="710">
+                <coordinates>2.17796,41.35839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>MSC ARMONIA</name>
+            <Point id="712">
+                <coordinates>-44.15821,-23.12781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>MSC EURIBIA</name>
+            <Point id="714">
+                <coordinates>-1.4217,50.902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>NORDIC RAY</name>
+            <Point id="716">
+                <coordinates>10.23864,59.73651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>SOPHIA</name>
+            <Point id="718">
+                <coordinates>104.01818,1.28934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>MSC FANTASIA</name>
+            <Point id="720">
+                <coordinates>2.63301,39.54893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>CARNIVAL JUBILEE</name>
+            <Point id="722">
+                <coordinates>-86.85254,20.73168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>DIONISIOS SOLOMOS</name>
+            <Point id="724">
+                <coordinates>24.64042,36.94724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>AIDANOVA</name>
+            <Point id="726">
+                <coordinates>6.83938,56.24243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>OTTO SVERDRUP</name>
+            <Point id="728">
+                <coordinates>9.96128,53.53024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>YAN DANG HAI</name>
+            <Point id="730">
+                <coordinates>-3.86331,49.70037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>MSC AJACCIO</name>
+            <Point id="732">
+                <coordinates>-0.32926,39.43684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>LOEVSTAKKEN</name>
+            <Point id="734">
+                <coordinates>54.77135,25.53442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>CELEBRITY SUMMIT</name>
+            <Point id="736">
+                <coordinates>-80.15912,25.07286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>NAVIGATOR OF THE SEA</name>
+            <Point id="738">
+                <coordinates>139.62605,41.04522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>PARK ISLAND 5</name>
+            <Point id="740">
+                <coordinates>114.06402,22.35302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>GNV SPIRIT</name>
+            <Point id="742">
+                <coordinates>14.2598,40.83983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>CLIO</name>
+            <Point id="744">
+                <coordinates>56.51282,25.16355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>BW LIBRA</name>
+            <Point id="746">
+                <coordinates>-93.99349,30.01058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>BMS VRIJHEID</name>
+            <Point id="748">
+                <coordinates>6.1996,53.40804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>SKUA</name>
+            <Point id="750">
+                <coordinates>5.2148,53.35643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>RPA 1</name>
+            <Point id="752">
+                <coordinates>4.65289,51.8142,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
