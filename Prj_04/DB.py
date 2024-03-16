@@ -18,54 +18,72 @@ import psycopg2
 def main():
     username = input("Username: ")
     password = input("Password: ")
-    orcl = orcl_register(username,password)
-    postgre = postgres_register(username, password)
-    if orcl:
+    orcl = ORCL(username = "system", password = "Abcd44231345", dsn = "localhost:1521/FirstORCL")
+    orcl_user = orcl.search_user(username,password)
+    orcl.close()
+    postgre = PostgreSQL(dbname = 'FirstPostgreSQL',user = 'postgres',password = '44231345',host = 'localhost',port = '5432')
+    postgre_user = postgre.search_user(username,password)
+    postgre.close()
+    if orcl_user:
         print("User is in Oracle Database.")
-    if postgre:
+    if postgre_user:
         print("User is in Postgres Database.")
-    if not(orcl) and not(postgre):
+    if not(orcl_user) and not(postgre_user):
         print("User is Not Found.")
 
-def orcl_register(user, pas):  
-    try:
-        username = "system"
-        password = "Abcd44231345"
-        dsn = "localhost:1521/FirstORCL"
-        connection = cx_Oracle.connect(username + "/" + password + "@" + dsn)
-        cursor = connection.cursor()
-        query = "SELECT COUNT(*) FROM users WHERE username = :username AND password = :password"
-        cursor.execute(query, (user, pas))
-        result = cursor.fetchone()[0]
-        cursor.close()
-        connection.close()
-        return result == 1
-    except cx_Oracle.DatabaseError as e:
-            error, = e.args
-            print("Oracle Database Error:", error)
+class ORCL(): 
+    def __init__(self, username = None, password = None, dsn = None):
+        try:
+            username = "system"
+            password = "Abcd44231345"
+            dsn = "localhost:1521/FirstORCL"
+            self.connection = cx_Oracle.connect(username + "/" + password + "@" + dsn)
+            self.cursor = self.connection.cursor()
+        except cx_Oracle.DatabaseError as e:
+                error, = e.args
+                print("Oracle Database Error:", error)
+    def search_user(self, user, pas):
+        try:
+            query = "SELECT COUNT(*) FROM users WHERE username = :username AND password = :password"
+            self.cursor.execute(query, (user, pas))
+            result = self.cursor.fetchone()[0]
+            return result == 1
+        except cx_Oracle.DatabaseError as e:
+                error, = e.args
+                print("Oracle Database Error:", error)
+    def close(self):
+        try:
+            self.cursor.close()
+            self.connection.close()
+        except cx_Oracle.DatabaseError as e:
+                error, = e.args
+                print("Oracle Database Error:", error)
+        
     
     
 
-def postgres_register(user, pas):
-    try:
-        conn_params = {
-            'dbname': 'FirstPostgreSQL',
-            'user': 'postgres',
-            'password': '44231345',
-            'host': 'localhost',
-            'port': '5432',  # Default PostgreSQL port
-        }
-        connection = psycopg2.connect(**conn_params)
-        cursor = connection.cursor()
-        query = "SELECT COUNT(*) FROM users WHERE username = %s AND password = %s"
-        cursor.execute(query, (user, pas))
-        result = cursor.fetchone()[0]
-        cursor.close()
-        connection.close()
-        return result == 1
-    except psycopg2.Error as e:
-        print("Error connecting to the PostgreSQL database:", e)
-        return False
+class PostgreSQL():
+    def __init__(self, dbname = None,user = None,password = None,host = None,port = None):
+        try:
+            self.connection = psycopg2.connect(dbname = dbname,user = user,password = password,host = host,port = port)
+            self.cursor = self.connection.cursor()
+        except psycopg2.Error as e:
+            print("Error connecting to the PostgreSQL database:", e)
+    def search_user(self, user, pas):
+        try:
+            query = "SELECT COUNT(*) FROM users WHERE username = %s AND password = %s"
+            self.cursor.execute(query, (user, pas))
+            result = self.cursor.fetchone()[0]
+            return result == 1
+        except psycopg2.Error as e:
+            print("Error connecting to the PostgreSQL database:", e)
+            return False
+    def close(self):
+        try:
+            self.cursor.close()
+            self.connection.close()
+        except psycopg2.Error as e:
+            print("Error connecting to the PostgreSQL database:", e)
 
 
 
