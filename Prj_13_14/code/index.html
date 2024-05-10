@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Accessible Map</title>
+    <script src="ol.js"></script>
+    <link rel="stylesheet" href="ol.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+      .map {
+        width: 100%;
+        height: 100vh;
+      }
+      a.skiplink {
+        position: absolute;
+        clip: rect(1px, 1px, 1px, 1px);
+        padding: 0;
+        border: 0;
+        height: 1px;
+        width: 1px;
+        overflow: hidden;
+      }
+      a.skiplink:focus {
+        clip: auto;
+        height: auto;
+        width: auto;
+        background-color: #fff;
+        padding: 0.3em;
+      }
+      #map:focus {
+        outline: #4A74A8 solid 0.15em;
+      }
+
+      .overlay {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        width: 230;
+        height: 70px;  /* Cover the entire map */
+        background-color: rgb(0, 0, 0, 0.0);  /* Semi-transparent background */
+        display: flex;  /* Center content vertically */
+        justify-content: right;
+        align-items: start;
+        z-index: 100;  /* Ensure overlay appears on top */
+      }
+      
+      .overlay.hidden {
+        display: none;  /* Hide the overlay initially */
+      }
+      
+      #overlayButton {
+        /* Style your button here */
+        width: 30px;
+        height: 30px;
+        background-image: url("./icon/TOC.png");
+        background-repeat: no-repeat;  /* Ensure image doesn't repeat */
+        background-position: center;
+        background-size: cover;
+        padding: 00px 00px;
+        cursor: pointer;
+        border: none;
+      }
+
+      #overlayDiv{
+        display: none;
+        cursor: pointer;
+        font-size: smaller;
+        margin-right: 8px;
+        padding: 10px 10px;
+        width: 120px;
+        color: white;
+        background-color: rgb(57, 57, 57);
+      }
+      /* The switch - the box around the slider */
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 30px;
+        height: 15px;
+    }
+    
+    /* Hide default HTML checkbox */
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+    
+    /* The slider */
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+    
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 11px;
+        width: 11px;
+        left: 2px;
+        bottom: 2px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+    
+    input:checked + .slider {
+        background-color: #2196F3;
+    }
+    
+    input:focus + .slider {
+        box-shadow: 0 0 1px #2196F3;
+    }
+    
+    input:checked + .slider:before {
+        -webkit-transform: translateX(15px);
+        -ms-transform: translateX(15px);
+        transform: translateX(15px);
+    }
+    
+    /* Rounded sliders */
+    .slider.round {
+        border-radius: 34px;
+    }
+    
+    .slider.round:before {
+        border-radius: 50%;
+    }
+
+    label.switch {
+        float: right; /* Float switches to the right */
+    }
+      
+    </style>
+  </head>
+  <body>
+    <a class="skiplink" href="#map">Go to map</a>
+    <div id="map" class="map" tabindex="0"></div>
+    <div id="overlay" class="overlay">
+        <div id="overlayDiv">
+          OSM: 
+          <label class="switch">
+            <input type="checkbox" id="osmCheckbox" checked>  <span class="slider"></span>
+          </label>
+          <br> 
+          <br> 
+          Rasht Base:
+          <label class="switch">
+            <input type="checkbox" id="rashtCheckbox" checked>  <span class="slider"></span>
+          </label>
+        </div>
+        <button id="overlayButton"></button> 
+      </div>
+    <script src="main.js"></script>
+  </body>
+</html>
